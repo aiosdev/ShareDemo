@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-VKontakte-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c40329fec5df630e44e97266f4eb283af8946d2">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-VKontakte-2.7.2_f145a53b68aae22d818222c83f31225005a8c783.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\MobTools-2016.0426.1819.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e2c5ab92b762c42cd30e6787cc401ae01e002512">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\MobTools-2016.0426.1819_2c8bcf792863a085fd03dca88837ec94152e5c2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Pocket-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="14f15152e412ff450316d68b801071b2457afe65">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Pocket-2.7.2_a9c7e9d8b78578f249983a01cad389f61b62aa57.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Wechat-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d87b1916e872678665a0d06c873c7712ed91457">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.2_53449e8a037b926ea9a95f9d2ce25f47e59ad2df.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Mingdao-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9943af0bfaa3d6f76c4c092fbdc0581221c58ee9">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Mingdao-2.7.2_e40b2985368ce254a90f40a9f41687ef3441a4ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-FacebookMessenger-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5c87013cacd3183b4bd6b4848d21ce5d81099c7">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-FacebookMessenger-2.7.2_01af17994f4c1f68ae8d50bc7418ec09e8980b83.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-KaiXin-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="18f5f0d662babf7f1b751bb0f9d9cbd6fa844645">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-KaiXin-2.7.2_e0bb29002056028bb0566adf23d8dd163f1a40bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Dropbox-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd1c3d552849fc25a28478f8a2749b163e08ed90">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Dropbox-2.7.2_d5e49aac36d5288fdc0868ba3b2e6e69556ca821.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Evernote-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0a81c601520e0babe5923b96854cfc4e7ae1369f">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Evernote-2.7.2_40f2c88785efcab211d02eee05047c4839e81dfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Kakao-Core-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9039a27bf3b829389c12d36d5b890a8a2db8afd1">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Kakao-Core-2.7.2_35646d87a735c2f1a9228e87ef1ff2f8b8005711.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Line-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="697de455dc652d87f36cdca1bc271f23a01ba850">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Line-2.7.2_65c65262446e687f810480cc1588551e5daf8a82.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Wechat-Moments-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e77e9127a0d9dadf0cf4963f14a6449a4e1dbe37">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.2_a31325056821748665a24f2fc71810353897d40a.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Twitter-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="52021b53ffa0195ec82b2ecc021422becb22d842">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Twitter-2.7.2_e34fd0bcd28515a70f213bd1c296d4a17ef75afc.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Alipay-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6bc02c47d0befd2861eeddce93a951f3f7b09bb6">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Alipay-2.7.2_72b16aa9440ddde3c8c98d3ebd49b18b6e0975b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-WhatsApp-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac2a1bc9c83ebe7ed523844a53c3937b7df74c64">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-WhatsApp-2.7.2_0b745828c12f69a2798dc4c5221ee51571eab6ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-KakaoStory-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="06b5cb9917a91929915fc14cf8cece03a5abd485">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-KakaoStory-2.7.2_f3b96b967c62e0fcebb7cd685769cea1592838a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Wechat-Core-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d2e75c7f5b644b69198a6c89deffab067fa5e88">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.2_d6bc78fadc518e769f808c2518aa4529cc6f6dd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Yixin-Core-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="11da8be2a263639a0785d179bdda5bab95ce2b05">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Yixin-Core-2.7.2_162f20ca1804494defef3cc8a1f8042168ccc8db.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Tumblr-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ffa334d3f5982b9cc3a6b56b97a3debf5c56bb0">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Tumblr-2.7.2_b415a77a10d658cfdc3696999a501a4ee98b0fb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Linkedin-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dae0353d9aaebb458c195bd4782c1cfec02fab4a">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Linkedin-2.7.2_8fcf3eca288d7933badef918080e247a956c788f.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-TencentWeibo-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7123d46dfb2b6473dbe295bc6510393706f89a2a">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-TencentWeibo-2.7.2_9dbfc3239a95171ff62101586844b3dc4c0a4293.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Email-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0372364f0f21bcba6f5113d2ecd14f286ae21a2c">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Email-2.7.2_5b23d5466ec92501abc0470fad77cda7c97c4e4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Pinterest-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="43e7abb9fea7149909e89cefd967501103a1d1e7">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Pinterest-2.7.2_a3dec2c18c6986bc55976b39ab20fcd48221e9b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Foursquare-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c1b8b1e840370d209a526c1f644f2aa9446eab86">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Foursquare-2.7.2_9346bcd570a3aded2bce8a2f709208360dbfda09.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Wechat-Favorite-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d195548d5cba02c925eb418118ac129322e209dd">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.7.2_79a38defc80bb21ba15a6eaa834de2fb7a541bbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Renren-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c07694c6ca639cf66b4a30dc31d983215c1ad8e">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Renren-2.7.2_65f27246cc25ce79024b20cd507cba4a7e15ecec.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Core-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="484d87cb8abd3c6d05eeca5abfac1cdd1aa1dc2e">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.2_aefd88fb05b6f42ef3863995d56e9f24832421d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Facebook-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="21f20693cb1f5526552c6b6dd506905af7594239">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Facebook-2.7.2_65ab03574cee3de9758d5b637e1551c4b774eaab.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Douban-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6797f5de562d6dee4ca3de97ea10b03dbac1fa03">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Douban-2.7.2_5503074fbe4378bdddf7574e6c6c797372fbefee.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-ShortMessage-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ab3c5ecdf37204d0466bdb15668753362618f861">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-ShortMessage-2.7.2_0da5bb24410818fd8b8383da9179fb7eafbfbceb.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Flickr-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97e56065c19b535b60e5c9b9b91c063cecec7fcc">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Flickr-2.7.2_7a03f11b411c71bf0e127cdb64ce2c6c82beea18.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-SinaWeibo-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7d038932c1902316f542e2ca7b7d73c16265185a">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.7.2_1732bf153110144daf4ed32304d1642a6f5f14ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-YouDao-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="56e62a270bf1a8b2f3830b2e58debd0ac8dda642">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-YouDao-2.7.2_c2be92a351c237d8b744d7e95fc1c72660e2a15e.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-QZone-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ab780cc4d045859b20a2177b7045e6ac6ec44be3">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.7.2_7ce196fca793631caa9615d1e5f846907a117442.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Instapaper-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ce6e019fcb28408ded82f546d3d9006949ae420f">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Instapaper-2.7.2_774a247134619860aebdef6cf2588e705d74a67c.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Yixin-Moments-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="742593044c8a498ba60874d01d108d1f5f17fc35">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Yixin-Moments-2.7.2_c21e2dd6e6607687cc64a6830da4fc64b97b41fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Instagram-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72c3baf7eff02716063a9e82b9903c56261b6912">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Instagram-2.7.2_d9ab45d4e7d16dcede7fcf4bc77232ae7039cbe9.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-GooglePlus-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="885edd0f53dbba330a0f24317ebe7b0ace453384">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-GooglePlus-2.7.2_8c091f4f4a6c12d43b7c8a256d6e4cb1a6137a9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-KakaoTalk-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="13df68f79b38337ce4b1416afe6aea123246ea64">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-KakaoTalk-2.7.2_49ec931382a244b9fcb162a6dc7cc47ea3caa5a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\MobCommons-2016.0426.1819.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5fce3a96cadb15dd2980863f403d7d1ab8732989">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0426.1819_f57f6f6b46a53daa6d18d468c65559332b823e20.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-Yixin-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="69250b63cfbb45106d837c1ac4ed5f29d126443e">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-Yixin-2.7.2_d86d246b184db7cde000bbeb8efcf7b4e792e0e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\libs\ShareSDK-QQ-2.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c3717539454ca4b61bf8323a6f307c248a1bd0ef">
+        <dex dex="C:\Users\guoecho\Desktop\v2.7.2\ShareSDK for Android Sample\ShareDemo\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.2_0521ecb00d50280a4fd4eade4445d903a8db021d.jar" />
+    </item>
+
+</items>
